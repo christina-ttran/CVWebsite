@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Libre+Baskerville:wght@700&family=Playfair+Display:wght@800&display=swap'); 
+
+.header_name {
+    padding: 0.5%;
+    background: #b29e84;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    font-size: 31px;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bolder;
+    text-align: center;
+    padding-left: 3%;
+}

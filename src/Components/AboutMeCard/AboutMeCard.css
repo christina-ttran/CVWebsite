@@ -1,0 +1,17 @@
+.AboutMe_Card {
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    position: relative;
+}
+
+.Button_Color {
+    color: #253439;
+    background-color: #253439;
+}
+
+.Button_Size {
+    padding: 1rem 1.5rem;
+    font-size: 2rem;
+}

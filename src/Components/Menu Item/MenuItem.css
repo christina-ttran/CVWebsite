@@ -1,0 +1,10 @@
+.menu_item {
+    width: 100%;
+    padding: 0.7%;
+    background: #9ea7a9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    font-size: 18px;
+}
