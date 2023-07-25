@@ -1,7 +1,7 @@
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
-import Header from "/Users/tinatran/Desktop/Website/src/Components/Header/Header.js";
-import MenuItem from "../../Components/Menu Item/MenuItem";
+import Header from "../../Components/Header/Header.js";
+import MenuItem from "../../Components/MenuItem/MenuItem";
 import AboutMeCard from "../../Components/AboutMeCard/AboutMeCard";
 import "./HomePage.css";
 

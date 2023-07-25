@@ -1,5 +1,5 @@
-import HeaderName from "/Users/tinatran/Desktop/Website/src/Components/Header/Header.js";
-import MenuItem from "../../Components/Menu Item/MenuItem";
+import HeaderName from "../../Components/Header/Header.js";
+import MenuItem from "../../Components/MenuItem/MenuItem.js";
 import { Container } from "react-bootstrap";
 
 function Projects() {

@@ -1,6 +1,6 @@
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import pic from "/Users/tinatran/Desktop/Website/src/Images/1eabdb0f-dde4-45c3-a43c-fd36e4b96962_original.JPG";
+import pic from "../../Images/1eabdb0f-dde4-45c3-a43c-fd36e4b96962_original.JPG";
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 import { BsInstagram } from "react-icons/bs";

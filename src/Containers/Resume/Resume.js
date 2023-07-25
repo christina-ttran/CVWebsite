@@ -1,6 +1,6 @@
 import { Container, Row, Col } from "react-bootstrap";
-import HeaderName from "/Users/tinatran/Desktop/Website/src/Components/Header/Header.js";
-import MenuItem from "../../Components/Menu Item/MenuItem";
+import HeaderName from "../../Components/Header/Header.js";
+import MenuItem from "../../Components/MenuItem/MenuItem";
 import pdf from "./ThuTran-Christina.pdf";
 import "./Resume.css";
 
